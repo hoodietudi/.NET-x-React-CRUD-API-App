@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25eb45ca-aea1-4f3b-aaa3-03af7e9bd7d9": {
+      "ProjectGuid": "25eb45ca-aea1-4f3b-aaa3-03af7e9bd7d9",
+      "DisplayName": "aspnetserver",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
